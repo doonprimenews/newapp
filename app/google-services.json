@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "48199267574",
+    "project_id": "doon-prime-news-mn",
+    "storage_bucket": "doon-prime-news-mn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48199267574:android:07ef840f53f76e0f2628d7",
+        "android_client_info": {
+          "package_name": "com.doonprime.news"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48199267574-hbts9oici20hgvd8434hf63f0ogjma5o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzgtd75x-pQdsEHzJHXz69RqwpZ44PYYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48199267574-hbts9oici20hgvd8434hf63f0ogjma5o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-4083084976645100~2485992494"
+    }
+  ],
+  "configuration_version": "1"
+}
